@@ -10,7 +10,7 @@
     <groupId>org.lsst.camera</groupId>
     <artifactId>org-lsst-camera-etraveler-shared</artifactId>
     <packaging>war</packaging>
-    <version>0.1</version>
+    <version>0.1-SNAPSHOT</version>
     <name>LSST eTraveler Shared Code</name>
     <url>http://srs.slac.stanford.edu/etShared</url>
     
